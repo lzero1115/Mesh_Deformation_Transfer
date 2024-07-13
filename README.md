@@ -4,5 +4,5 @@ Transfer the deformation of Source mesh to the target mesh by several landmarks 
 Numerical optimization details are very clear in original paper, highly recommend to read.  
 Have fun!  
 
-![Reference poses](images/reference_poses.png)  
-![Deformation results](images/transferred_poses.png)
+<img src="images/reference_poses.png" alt="Reference shape (source: cat, target: lion)" width="600"/>  
+<img src="images/transferred_poses.png" alt="Deformation Results" width="600"/>
