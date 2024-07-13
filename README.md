@@ -5,5 +5,6 @@ Numerical optimization details are very clear in original paper, highly recommen
 
 ## Left Source: Cat, Right Target: Lion
 <img src="images/reference_poses.png" alt="Reference shape (source: cat, target: lion)" width="600"/> 
+
 ## Deformation Transfer Results
 <img src="images/transferred_poses.png" alt="Deformation Results" width="600"/>
